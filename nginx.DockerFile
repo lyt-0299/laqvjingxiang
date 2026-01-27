@@ -1,1 +1,1 @@
-FROM quay.io/nginx:latest 
+FROM nginx:latest 
