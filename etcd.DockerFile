@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/etcd:3.5.12
+FROM m.daocloud.io/docker.io/quay.io/coreos/etcd:v3.5.12
